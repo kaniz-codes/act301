@@ -6,7 +6,7 @@ Lecture notes for **Accounting and Management (ACT-301)**.
 Course  : Accounting and Management
 Code    : ACT-301
 Lecture : 01
-Date    : 14 September 2026
+Date    : 13 September 2026
 ```
 
 ## Topics Covered
